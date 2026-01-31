@@ -24,7 +24,7 @@
 [Codes](#code-description) •
 [Repository](#repository-structure) •
 [Usage](#usage) •
-[Notes](#notes)
+
 
 </div>
 
@@ -33,7 +33,7 @@
 ## Project Abstract
 
 This repository contains the **complete codebase** associated with a research project on **Hierarchical Bayesian Poisson Mixture Models (PMMs)**, developed as part of a Summer Internship 2025.
-
+You can find the PDF report of this work in the "Releases" section.
 The project investigates why conventional clustering approaches fail on **discrete, sparse, and over-dispersed count data**, particularly in **single-cell genomics (scRNA-seq, scATAC-seq)**. We focus on Poisson mixture models with Gamma priors and show both empirically and theoretically that **prior variance plays a decisive role in cluster separability**.
 
 All mathematical derivations, proofs, and detailed experimental discussion are provided in the **accompanying report (PDF)**. This repository is intentionally code-focused.
